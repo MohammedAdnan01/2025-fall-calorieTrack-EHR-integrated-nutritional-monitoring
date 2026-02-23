@@ -1,14 +1,12 @@
 # 2025-fall-calorieTrack-EHR-integrated-nutritional-monitoring
 
 ## Overview
---------
 
 CalorieTrack is a native Android application designed for e-hospital patients to track their nutrition using AI-driven food analysis. It integrates the patient's Electronic Health Record (EHR) data to provide personalized, real-time health and safety recommendations against meal consumption.
 
 This project is a collaborative effort focusing on robust patient safety and enhanced user experience.
 
 ## Key Features
-------------
 
 ### 1\. Patient Safety & Risk Assessment
 
@@ -40,7 +38,6 @@ This project is a collaborative effort focusing on robust patient safety and enh
     
 
 ## Technical Setup
----------------
 
 ### Prerequisites
 
